@@ -3,8 +3,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 #import json
 
-clientId = "bddce1a6d99d41fc852233c8501f8e36"
-clientSecret = "633a19aeeac7453cbaca0b81412e4d35"
+clientId = "xxx"
+clientSecret = "xx"
 spotify_user_name_first_playlist = "spotify"
 spotify_user_name_second_playlist = "onerepublicofficial"
 first_playlist_id = "37i9dQZF1DXbZBKpgxsyXU"
